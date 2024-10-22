@@ -6,6 +6,7 @@
 - 😄 Pronouns: ...he
 - ⚡ Fun fact: ... I am the youngest on my job but i look like the older
 - i am Information Technology engineer although i'm 24
+- i'm currently in a relationship
 
 <!---
 cmismael07/cmismael07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
