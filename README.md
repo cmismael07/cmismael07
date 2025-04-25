@@ -39,7 +39,7 @@ Si estás buscando a alguien que se tome en serio el aprendizaje y le ponga cora
 
 📧 ismael.canga@email.com  
 📍 Desde algún rincón curioso del mundo  
-🐙 [github.com/tu-usuario](https://github.com/tu-usuario)
+🐙 [github.com/cmismael07](https://github.com/cmismael07)
 
 ---
 
