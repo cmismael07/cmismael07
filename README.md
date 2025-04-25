@@ -25,10 +25,10 @@
 
 ---
 
-## 📌 Algunos proyectos
+## 📌 Algunos proyectos <br>
 
-🔐 [Generador de códigos QR con cifrado AES]
-🌐 [Sistema de gestión de clientes y archivos en PHP]
+🔐 [Generador de códigos QR con cifrado AES] <br>
+🌐 [Sistema de gestión de clientes y archivos en PHP] <br>
 📲 [App móvil para seguimiento médico (en progreso)]
 
 ---
