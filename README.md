@@ -37,7 +37,7 @@
 
 Si estás buscando a alguien que se tome en serio el aprendizaje y le ponga corazón a lo que hace, ¡no dudes en escribirme! Siempre estoy abierto a colaborar en proyectos interesantes o simplemente a compartir ideas.
 
-📧 ismael.canga@email.com  
+📧 ismaelcm841@gmail.com  
 📍 Desde algún rincón curioso del mundo  
 🐙 [github.com/cmismael07](https://github.com/cmismael07)
 
