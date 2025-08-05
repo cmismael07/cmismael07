@@ -29,7 +29,8 @@
 
 🔐 [Generador de códigos QR con cifrado AES] <br>
 🌐 [Sistema de gestión de clientes y archivos en PHP] <br>
-📲 [App móvil para seguimiento médico (en progreso)]
+📲 [App móvil para seguimiento médico (en progreso)] <br>
+🖥️ [CRM para mayor trazabilidad de solicitudes en servicios de internet ]
 
 ---
 
