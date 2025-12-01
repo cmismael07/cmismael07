@@ -8,7 +8,7 @@
 
 ## 💡 Sobre mí
 
-¡Hola! Soy Ismael Canga, tengo 24 años y soy un apasionado de la tecnología. Aunque aún estoy en mis primeros pasos enseñando inglés, mi verdadera vocación está en el mundo del desarrollo de software. Me encanta crear cosas útiles, aprender algo nuevo cada día y compartir lo que sé con los demás.
+¡Hola! Soy Ismael Canga, tengo 25 años y soy un apasionado de la tecnología. Aunque aún estoy en mis primeros pasos enseñando inglés, mi verdadera vocación está en el mundo del desarrollo de software. Me encanta crear cosas útiles, aprender algo nuevo cada día y compartir lo que sé con los demás.
 
 - 🎯 Actualmente trabajando en proyectos web con **PHP, Laravel y MySQL**
 - 📱 También me interesa el desarrollo móvil con **Flutter**
