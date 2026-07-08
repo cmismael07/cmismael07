@@ -8,7 +8,7 @@
 
 ## 💡 Sobre mí
 
-¡Hola! Soy Ismael Canga, tengo 25 años y soy un apasionado de la tecnología. Me encanta crear cosas útiles, aprender algo nuevo cada día y compartir lo que sé con los demás.
+¡Hola! Soy Ismael Canga, tengo 26 años y soy un apasionado de la tecnología. Me encanta crear cosas útiles, aprender algo nuevo cada día y compartir lo que sé con los demás.
 
 - 🎯 Actualmente trabajando en proyectos web con **PHP, Laravel y MySQL**
 - 📱 También me interesa el desarrollo móvil con **Flutter**
